@@ -23,6 +23,9 @@ The project includes a dataset, an interactive Power BI dashboard, and a present
 - Dataset used for analysis
 - Interactive Power BI dashboard
 - Presentation summarizing key findings and recommendations
+## Dashboard Preview
+
+![Call Center Performance Dashboard](Images/CallCentre_Dashboard.png)
 
 ## Conclusion
 This project demonstrates how data analysis and business intelligence tools can help evaluate call center operations, identify performance gaps, and support data-driven decision-making. It strengthened my practical understanding of data visualization, KPI analysis, and communicating insights to stakeholders.
